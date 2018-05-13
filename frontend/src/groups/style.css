@@ -1,0 +1,11 @@
+.delete-button {
+    float: right;
+}
+
+.select-wrapper {
+    margin-top: 50px;
+}
+
+.controls-col {
+    max-width: 100px;
+}
